@@ -6,3 +6,4 @@ More like a prototype.
 - http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 - http://yann.lecun.com/exdb/mnist/
 - https://github.com/spotify/annoy
+- https://github.com/PotatoSpudowski/S.I.D.E
